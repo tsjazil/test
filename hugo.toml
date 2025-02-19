@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Jazil T S'
 theme = 'hello-friend-ng'
 
+
+[params]
+disableHugoGeneratorInject = true
+
 [params.footer]
   # trademark = 2023
   rss = false 
