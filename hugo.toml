@@ -61,6 +61,6 @@ disableHugoGeneratorInject = true
 #     alt      = "Portrait"
 #     maxWidth = "50px"
   [params.portrait]
-    path     = "assets/images/dp.png"
+    path     = "images/dp.png"
     alt      = "Portrait"
     maxWidth = "350px"
